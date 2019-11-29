@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   fluxtestchart:
   - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2019-11-29T16:22:04.083383931+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 0681a310ebc475ab23f04a94430b29d51a4bb3ed9af26cb630fc2d40ccac70b4
+    name: fluxtestchart
+    type: application
+    urls:
+    - https://mubn.github.io/helm-charts/fluxtestchart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2019-11-29T15:46:47.13532716+01:00"
+    created: "2019-11-29T16:22:04.083064252+01:00"
     description: A Helm chart for Kubernetes
     digest: 84b9bf92797fa29790a04389dff32608c05c7512a504b1030381bfd8c5c8062f
     name: fluxtestchart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2019-11-29T15:46:47.134972819+01:00"
+    created: "2019-11-29T16:22:04.082738641+01:00"
     description: A Helm chart for Kubernetes
     digest: 118741ea43f3e792b77b03f19124b5428e74317e551d5a2cfe213270017bc8ce
     name: fluxtestchart
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://mubn.github.io/helm-charts/fluxtestchart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-11-29T15:46:47.134572058+01:00"
+generated: "2019-11-29T16:22:04.082305113+01:00"
