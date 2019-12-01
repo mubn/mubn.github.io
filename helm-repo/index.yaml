@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   myapp:
   - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2019-12-01T01:08:28.668718158+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 2d9f59261fdece4bb7ed30a63b91ef9c31a577a1b18aa98f3610cc7bf93ec247
+    name: myapp
+    type: application
+    urls:
+    - https://mubn.github.io/helm-repo/myapp-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2019-12-01T00:36:55.443457513+01:00"
+    created: "2019-12-01T01:08:28.668078971+01:00"
     description: A Helm chart for Kubernetes
     digest: acc9bffbca9964ce9089166f83431f470b5f3affa27198c6ca8660dfa244d83d
     name: myapp
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://mubn.github.io/helm-repo/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-01T00:36:55.442605386+01:00"
+generated: "2019-12-01T01:08:28.667222521+01:00"
