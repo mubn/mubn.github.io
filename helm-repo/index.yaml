@@ -1,34 +1,45 @@
 apiVersion: v1
 entries:
+  fluxtestchart:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2019-12-02T11:45:57.91417698+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 89d35a57c61ef49c966f53d59054eea0d529d5507ac02fba8098942456b78abd
+    name: fluxtestchart
+    type: application
+    urls:
+    - https://mubn.github.io/helm-charts/fluxtestchart-0.1.2.tgz
+    version: 0.1.2
   myapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2019-12-01T01:18:32.240576421+01:00"
+    created: "2019-12-02T11:45:57.915067825+01:00"
     description: A Helm chart for Kubernetes
     digest: b4e91c9a00f4a3921982da87d17bdb9b56067613e9604ef6ef1cd9287d1b122e
     name: myapp
     type: application
     urls:
-    - https://mubn.github.io/helm-repo/myapp-0.1.2.tgz
+    - https://mubn.github.io/helm-charts/myapp-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2019-12-01T01:18:32.239899422+01:00"
+    created: "2019-12-02T11:45:57.914778599+01:00"
     description: A Helm chart for Kubernetes
     digest: 2d9f59261fdece4bb7ed30a63b91ef9c31a577a1b18aa98f3610cc7bf93ec247
     name: myapp
     type: application
     urls:
-    - https://mubn.github.io/helm-repo/myapp-0.1.1.tgz
+    - https://mubn.github.io/helm-charts/myapp-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2019-12-01T01:18:32.239281278+01:00"
+    created: "2019-12-02T11:45:57.914501876+01:00"
     description: A Helm chart for Kubernetes
     digest: acc9bffbca9964ce9089166f83431f470b5f3affa27198c6ca8660dfa244d83d
     name: myapp
     type: application
     urls:
-    - https://mubn.github.io/helm-repo/myapp-0.1.0.tgz
+    - https://mubn.github.io/helm-charts/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-01T01:18:32.23837776+01:00"
+generated: "2019-12-02T11:45:57.913730045+01:00"
