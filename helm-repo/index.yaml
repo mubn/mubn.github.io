@@ -9,7 +9,7 @@ entries:
     name: fluxtestchart
     type: application
     urls:
-    - https://mubn.github.io/helm-charts/fluxtestchart-0.1.2.tgz
+    - https://mubn.github.io/helm-repo/fluxtestchart-0.1.2.tgz
     version: 0.1.2
   myapp:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: myapp
     type: application
     urls:
-    - https://mubn.github.io/helm-charts/myapp-0.1.2.tgz
+    - https://mubn.github.io/helm-repo/myapp-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
@@ -30,7 +30,7 @@ entries:
     name: myapp
     type: application
     urls:
-    - https://mubn.github.io/helm-charts/myapp-0.1.1.tgz
+    - https://mubn.github.io/helm-repo/myapp-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
@@ -40,6 +40,6 @@ entries:
     name: myapp
     type: application
     urls:
-    - https://mubn.github.io/helm-charts/myapp-0.1.0.tgz
+    - https://mubn.github.io/helm-repo/myapp-0.1.0.tgz
     version: 0.1.0
 generated: "2019-12-02T11:45:57.913730045+01:00"
